@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed Wael 👋</h1>
-<h3 align="center">Data Engineer | DEPI Graduate 🎓 | AI & ML Enthusiast</h3>
+<h3 align="center">Data Engineer | DEPI Trainee 🚀 | AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-wael-khalifa/">
@@ -16,7 +16,7 @@
 
 I am a dedicated **Data Engineer** and a top-ranking graduate from **Sohag University** (Statistics & Computer Science Dept.).
 
-* 🎓 I recently graduated from the **Digital Egypt Pioneers Initiative (DEPI)** - Data Engineering Track.
+* 🎓 I am currently enrolled in the **Digital Egypt Pioneers Initiative (DEPI)** - Data Engineering Track.
 * 💼 I have experience as a **Session Lead at Udacity** and a **Teacher Trainer** (Giza Systems/Misr El Kheir).
 * 🔭 I specialize in building **Data Pipelines**, **Statistical Analysis**, and **Python Programming**.
 * 🌱 I am currently focused on advancing my skills in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.
