@@ -14,26 +14,26 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a dedicated **Data Engineer** and a top-ranking graduate from **Sohag University** (Statistics & Computer Science Dept.)[cite: 218, 223].
+I am a dedicated **Data Engineer** and a top-ranking graduate from **Sohag University** (Statistics & Computer Science Dept.).
 
 * 🎓 Currently enrolled in the **Digital Egypt Pioneers Initiative (DEPI)** - Data Engineering Track.
-* [cite_start]🔬 I serve as a **Research Mentor** at the Faculty of Science, Sohag University[cite: 241, 242].
-* [cite_start]💼 I have experience as a **Session Lead at Udacity** and a **Teacher Trainer**[cite: 231, 237].
+* 🔬 I serve as a **Research Mentor** at the Faculty of Science, Sohag University.
+* 💼 I have experience as a **Session Lead at Udacity** and a **Teacher Trainer**.
 * 🌱 My focus bridges **Data Engineering** with **Academic Research** in AI & Educational Technology.
 
 ---
 
 ### 🔬 Research & Publications
 
-[cite_start]I am passionate about academic excellence and fostering a culture of inquiry-based learning[cite: 224, 246].
+I am passionate about academic excellence and fostering a culture of inquiry-based learning.
 
 **📄 Published Paper:**
-> [cite_start]**[The Application of Generative Artificial Intelligence (ChatGPT) in Educational Support](https://sjsci.journals.ekb.eg/article_442599.html)** [cite: 262, 264]
-> [cite_start]*Published in: Sohag Journal of Scientific Innovation, 2025* [cite: 263]
+> **[The Application of Generative Artificial Intelligence (ChatGPT) in Educational Support](https://sjsci.journals.ekb.eg/article_442599.html)**
+> *Published in: Sohag Journal of Scientific Innovation, 2025*
 
 **👨‍🏫 Academic Roles:**
-* [cite_start]**Research Mentor (2023 - Present):** Teaching research methodology and academic writing to undergraduates at Sohag University[cite: 241, 243, 244].
-* [cite_start]**Workshop Facilitator:** Conducting workshops on using **ResearchGate** and the **Egyptian Knowledge Bank (EKB)**[cite: 245].
+* **Research Mentor (2023 - Present):** Teaching research methodology and academic writing to undergraduates at Sohag University.
+* **Workshop Facilitator:** Conducting workshops on using **ResearchGate** and the **Egyptian Knowledge Bank (EKB)**.
 
 ---
 
